@@ -1,4 +1,4 @@
-# 01  Horise onCode Refactor
+# 01 Horiseon Code Refactor
 
 ## User Story
 
