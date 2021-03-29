@@ -13,7 +13,7 @@ For this homework I was tasked with updating the Horiseon Marketing Website in o
 
 https://jonathan-goldstein.github.io/Horeison-Code-Refactor
 
-# Below are images showing the functional webpages:
+# Below is an image showing the website homepage:
 
 ## The landing page:
 
